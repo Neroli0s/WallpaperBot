@@ -1,0 +1,5 @@
+{
+    "bot_token": "BOT_TOKEN_HERE",
+    "admin_chat_id": ADMIN_CHAT_ID,
+    "banned_users": []
+} 
